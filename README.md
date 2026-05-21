@@ -137,8 +137,7 @@ Real-Time-Sign-Language-Recognition-system/
 │
 ├── data/                # Dataset
 ├── notebooks/           # Jupyter notebooks
-├── src/                 # Source code
-├── models/              # Trained models
+├── src/                 # Source code           
 ├── README.md
 └── requirements.txt
 ```
